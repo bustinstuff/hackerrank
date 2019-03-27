@@ -16,7 +16,7 @@ The second line contains n space-separated integers representing the array's ele
 
 **Constraints**
 
-0 < n, ar[i] <= 1000
+- 0 < n, ar[i] <= 1000
 
 **Output Format**
 
