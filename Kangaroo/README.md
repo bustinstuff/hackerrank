@@ -36,11 +36,11 @@ Print YES if they can land on the same location at the same time; otherwise, pri
 
 **Sample Input 0**
 
-  0 3 4 2
+    0 3 4 2
 
 **Sample Output 0**
 
-  YES
+    YES
 
 **Explanation 0**
 
@@ -55,11 +55,11 @@ jumps), and we print YES.
 
 **Sample Input 1**
 
-  0 2 5 3
+    0 2 5 3
 
 **Sample Output 1**
 
-  NO
+    NO
 
 **Explanation 1**
 
