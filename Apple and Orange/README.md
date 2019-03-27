@@ -2,7 +2,7 @@ Sam's house has an apple tree and an orange tree that yield an abundance of frui
 
 .
 
-Apple and orange(2).png
+(https://github.com/bustinstuff/hackerrank/blob/master/Apple%20and%20Orange/1474218925-f2a791d52c-Appleandorange2.png)
 
 When a fruit falls from its tree, it lands
 units of distance from its tree of origin along the -axis. A negative value of means the fruit fell units to the tree's left, and a positive value of means it falls
