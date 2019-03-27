@@ -48,10 +48,7 @@ The two kangaroos jump through the following sequence of locations:
 
 ![alt text](https://github.com/bustinstuff/hackerrank/blob/master/Kangaroo/1516005283-e74e76ff0c-kangaroo.png)
 
-From the image, it is clear that the kangaroos meet at the same location (number
-on the number line) after same number of jumps (
-
-jumps), and we print YES.
+From the image, it is clear that the kangaroos meet at the same location (number 12 on the number line) after same number of jumps (4 jumps), and we print YES.
 
 **Sample Input 1**
 
