@@ -7,7 +7,7 @@ These numbers are referred to as being between the two arrays. You must determin
 
 For example, given the arrays a=[2,6] and b=[24,36], there are two numbers between them: 6 and 12.  6%2=0, 6%6=0, 24%6=0, and 36%6=0 for the first value.  Similarly, 12%2=0, 12%6=0, 24%12=0, and 36%12=0.
 
-"Function Description"
+**Function Description**
 
 Complete the getTotalX function in the editor below. It should return the number of integers that are betwen the sets.
 
@@ -15,7 +15,7 @@ getTotalX has the following parameter(s):
 - a: an array of integers
 - b: an array of integers
 
-"Input Format"
+**Input Format**
 
 The first line contains two space-separated integers, n and m, the number of elements in array a and the number of elements in array b.
 
@@ -23,26 +23,26 @@ The second line contains n distinct space-separated integers describing a[i] whe
 
 The third line contains m distinct space-separated integers describing b[j] where 0 <= j < m.
 
-"Constraints"
+**Constraints**
 - 1 <= n, m <= 10
 - 1 <= a[i] <= 100
 - 1 <= b[j] <= 100
 
-"Output Format"
+**Output Format**
 
 Print the number of integers that are considered to be between a and b.
 
-"Sample Input"
+**Sample Input**
 
     2 3
     2 4
     16 32 96
 
-"Sample Output"
+**Sample Output**
 
     3
 
-"Explanation"
+**Explanation**
 
 2, 4 divide evenly into 4, 8, 12, 16.
 
