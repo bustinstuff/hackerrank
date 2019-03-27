@@ -46,7 +46,7 @@ Print YES if they can land on the same location at the same time; otherwise, pri
 
 The two kangaroos jump through the following sequence of locations:
 
-image
+![alt text](https://raw.github.com/bustinstuff/hackerrank/Kangaroo/.png)
 
 From the image, it is clear that the kangaroos meet at the same location (number
 on the number line) after same number of jumps (
