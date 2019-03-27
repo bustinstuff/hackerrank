@@ -24,8 +24,8 @@ The second line contains space-separated integers describing an array of numbers
 
 **Constraints**
 
-0 < n <= 100
--100 <= arr[i] <= 100
+- 0 < n <= 100
+- -100 <= arr[i] <= 100
 
 **Output Format**
 
