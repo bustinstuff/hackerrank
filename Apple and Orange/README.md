@@ -19,7 +19,7 @@ countApplesAndOranges has the following parameter(s):
 
 - s: integer, starting point of Sam's house location.
 - t: integer, ending location of Sam's house location.
-- sa: integer, location of the Apple tree.
+- a: integer, location of the Apple tree.
 - b: integer, location of the Orange tree.
 - apples: integer array, distances at which each apple falls from the tree.
   oranges: integer array, distances at which each orange falls from the tree.
