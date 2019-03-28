@@ -48,7 +48,7 @@ Print two space-seperated integers describing the respective numbers of times he
 
 The diagram below depicts the number of times Maria broke her best and worst records throughout the season:
 
-image
+![alt text](https://github.com/bustinstuff/hackerrank/blob/master/Breaking%20the%20Records/1487360234-6bca5c518d-breakingbest3.png)
 
 She broke her best record twice (after games 2 and 7 her worst record four times (after games 1, 4, 6, and 8) so we print 2 4 as our answer. Note that she did not break her record for best score during game 3, as her score during that game was not strictly greater than her best record at the time.
 
@@ -65,6 +65,6 @@ She broke her best record twice (after games 2 and 7 her worst record four times
 
 The diagram below depicts the number of times Maria broke her best and worst records throughout the season:
 
-image
+![alt text](https://github.com/bustinstuff/hackerrank/blob/master/Breaking%20the%20Records/1487360375-aee4388234-breakingbest5.png)
 
 She broke her best record four times (after games 1, 2, 3, and 9) and her worst record zero times (no score during the season was lower than the one she earned during her first game), so we print 4 0 as our answer.
